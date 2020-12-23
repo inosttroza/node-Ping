@@ -1,0 +1,16 @@
+{
+    "name": "dpro-pruebas",
+    "version": "1.0.0",
+    "description": "esto es una version de pruebas",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pablo Inostroza",
+    "license": "ISC",
+    "dependencies": {
+        "file-system": "^2.2.2",
+        "node": "^10.8.0",
+        "ping": "^0.2.2"
+    }
+}
