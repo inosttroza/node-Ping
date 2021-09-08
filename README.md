@@ -1,11 +1,10 @@
 # node-Ping
-Ej. realiza ping cada x segundos y lee txt
+Ejemplo que realiza ping cada x segundos leyendo las IPs de un archivo .txt
 
 <h1>NodeJs</h1>
-Solo NodeJs
-Modulos:
-1-fs(lextura txt)
-2-ping
+Modulos:<br>
+1-fs(lextura txt)<br>
+2-ping<br>
 
 <h1>Nota:</h1>
 Para utilizar este ejemplo es necesario reconstruir los módulos de node
