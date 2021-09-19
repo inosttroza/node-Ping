@@ -9,3 +9,5 @@ Modulos:<br>
 <h1>Nota:</h1>
 Para utilizar este ejemplo es necesario reconstruir los módulos de node
 <pre><code>npm install</pre></code>
+
+![Screenshot](screenshot.PNG)
